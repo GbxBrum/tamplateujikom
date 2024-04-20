@@ -6,6 +6,7 @@
     <title>Dashboard Template</title>
     <!-- Bootstrap CSS -->
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    
     <!-- Custom styles -->
     <style>
         /* Add custom styles here */
@@ -78,14 +79,14 @@
                                 <tr>
                                    <td></td>
                                    <td></td>
-                                   <td></td>
-                                   <td></td>
-                                   <td></td>
+                                   <td>a</td>
+                                   <td>a</td>
+                                   <td>a</td>
                                     <td>
-                                        {{-- <a type="submit" href="{{ url('edit/' . $i->PetugasId) }}"
+                                       {{-- <a type="submit" href="{{ url('edit/' . $i->PetugasId) }}"
                                             class="btn btn-secondary"><i class="bi bi-pencil-square"></i></a>
                                         <a href="hapusadmin/{{ $i->PetugasId }}"><button type="submit"
-                                                class="btn btn-danger"><i class="bi bi-trash"></i></button></a> --}}
+                                                class="btn btn-danger"><i class="bi bi-trash"></i></button></a>  --}}
                                     </td>
                                 </tr>
                                 <!-- Tambahkan baris tambahan sesuai kebutuhan -->
